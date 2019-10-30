@@ -2,7 +2,7 @@
 
 ###### 배우는 내용을 한번에, 영원히 기억할 수 있는 읽는 방법
 
-:good: 출처 => [여기](https://medium.com/better-humans/how-to-read-academic-content-once-and-remember-it-forever-e44f26d82566](https://medium.com/better-humans/how-to-read-academic-content-once-and-remember-it-forever-e44f26d82566)
+:good: 출처 => (여기)[https://medium.com/better-humans/how-to-read-academic-content-once-and-remember-it-forever-e44f26d82566](https://medium.com/better-humans/how-to-read-academic-content-once-and-remember-it-forever-e44f26d82566]
 
 ### 영어를 한국어로 요약 및 생각
 
